@@ -1,0 +1,49 @@
+
+div {
+    background-color: lightcyan;
+    margin: auto;
+    width: 900px;
+    padding: 50px;
+}
+
+
+
+
+body {
+    background-color: lightcoral;
+    text-align: center;
+}
+
+
+
+#para17 {
+    display : none;
+}
+
+#para6 {
+    display : none;
+}
+
+#para11 {
+    display : none;
+}
+
+#para16 {
+    display : none;
+}
+
+#para18 {
+    display: none;
+}
+
+
+
+button {
+    background-color: lightseagreen;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 20px;
+
+
+}
